@@ -1,2 +1,2 @@
-git clone this repo
-run `chmod +x setup.sh` on terminal 
+- git clone this repo
+- run `chmod +x setup.sh` on terminal 
