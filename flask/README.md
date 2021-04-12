@@ -4,5 +4,5 @@
 - run `chmod +x setup2.sh` on terminal 
 - run `./setup1.sh`
 - run `conda init bash` on terminal
-- restart terminal
+- run `conda activate mydeploymentenv` on terminal
 - run `./setup2.sh`
